@@ -24,3 +24,24 @@
   * Did this game have the depth of strategy that you were expecting?
   * What were the moments that people felt like they were having the most fun? The least fun?
   * Assuming trivial issues are fixed, would you recommend this to someone else?
+
+# Playtest - Feb. 10, 2017
+
+## Basic Info
+  * Players: 3
+  * Date: Feb. 10, 2017
+  * Rule Version: .00.03
+  * Playtime: ~45 minutes
+  * Rules: explained by the designer
+  * Players' favourite games are:
+    * Tzolk'in
+    * Cleopatra and the Society of Architects
+
+## Function
+  * Start of the game is slow - feels like there is very little a player can do on their turn
+  * Many moving parts make it difficult to keep track
+  * Symbols are useful for generalization but text would be helpful for people with poor memories ("Race for the Galaxy" problem)
+
+## Enjoyment
+  * Story and theme are enjoyable
+  * Once things got going, once the machines started running things were more entertaining

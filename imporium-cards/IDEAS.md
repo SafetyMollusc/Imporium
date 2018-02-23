@@ -1,22 +1,21 @@
 # Title Ideas
 
-* First idea
-* Second idea
-
+* Imporium
+* ...
 
 # Things to Try
 
-* Idea
-* Idea
+* Start with 7 cards as playing limit
+* ...
 
 # Feedback Ideas
 
-* Feedback
-* Feedback
+* Consider adjusting the starting money so players have more they can work with off the bat
+* ...
 
 # Problems To Work On
 
-* Problem
-* Problem
+* Start is slow
+* Game ends before machine gets going (would be fixed with quicker start)
 
 
