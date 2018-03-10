@@ -1,0 +1,144 @@
+#This layout is based upon the template 'economy.yml' 
+title:
+  x: 650
+  y: 90
+  width: 385
+  height: 50
+  align: center
+
+title_bkgd:
+  x: 650
+  y: 90
+  width: 385
+  height: 50
+  fill_color: '#1111'
+  stroke_color: '#0000'
+
+art:
+  x: 75
+  y: 75
+  width: 975
+  height: 975
+
+description:
+  x: 700
+  y: 165
+  width: 335
+  height: 260
+  valign: top
+  align: left
+  font_size: 6
+desc: # alias
+  extends: description
+
+desc_bkgd:
+  x: 100
+  y: 450
+  width: 600
+  height: 275
+  fill_color: '#7777'
+  stroke_color: '#0000'
+
+cost:
+  x: 75
+  y: 75
+  width: 50
+  height: 50
+  align: center
+
+type:
+  x: 90
+  y: 955
+  width: 645
+  height: 50
+  align: center
+
+play:
+  x: 90
+  y: 700
+  width: 260
+  height: 335
+  font_size: 6
+  valign: bottom
+  align: left
+
+play_bkgd:
+  x: 90
+  y: 700
+  width: 260
+  height: 335
+  fill_color: '#7777'
+  stroke_color: '#0000'
+
+
+discard:
+  x: 775
+  y: 700
+  width: 260
+  height: 335
+  font_size: 6
+  valign: bottom
+  align: left
+
+discard_bkgd:
+  x: 775
+  y: 700
+  width: 260
+  height: 335
+  fill_color: '#7777'
+  stroke_color: '#0000'
+
+
+lower_right:
+  x: 975
+  y: 975
+  width: 75
+  height: 75
+  font_size: 6
+  valign: bottom
+  align: right
+lr: #alias
+  extends: lower_right
+
+lower_left:
+  x: 75
+  y: 975
+  width: 75
+  height: 75
+  font_size: 6
+  valign: bottom
+  align: left
+ll: # alias
+  extends: lower_left
+
+copyright:
+  x: 75
+  y: 1025
+  width: 675
+  height: 25
+  font_size: 5
+  align: center
+  valign: bottom
+#aliases for copyright
+copy:
+  extends: copyright
+credit:
+  extends: copyright
+credits:
+  extends: copyright
+
+# The "cut line", without rounded corners
+cut:
+  x: 37.5
+  y: 37.5
+  width: 1050
+  height: 1050
+
+# The "safe zone" as defined by TheGameCrafter poker cards
+safe:
+  x: 75
+  y: 75
+  width: 975
+  height: 975
+  radius: 16
+  dash: 3 3

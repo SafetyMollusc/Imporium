@@ -1,0 +1,176 @@
+title,cost,description,art,type,play,discard,Starting_Qty,Available Base,Available Per Player,Total_Qty
+Aspirator,3,Collects imps from the portal,.\res\graphics\Aspirator.png,Fixed,"+1 Imp
++1 Dispenser","+2 Credits OR
++1 Sell",1,2,2,10
+Aspirator,3,Collects imps from the portal,.\res\graphics\Aspirator.png,Fixed,"+1 Imp
++1 Dispenser","+2 Credits OR
++1 Sell",,,,
+Aspirator,3,Collects imps from the portal,.\res\graphics\Aspirator.png,Fixed,"+1 Imp
++1 Dispenser","+2 Credits OR
++1 Sell",,,,
+Aspirator,3,Collects imps from the portal,.\res\graphics\Aspirator.png,Fixed,"+1 Imp
++1 Dispenser","+2 Credits OR
++1 Sell",,,,
+Aspirator,3,Collects imps from the portal,.\res\graphics\Aspirator.png,Fixed,"+1 Imp
++1 Dispenser","+2 Credits OR
++1 Sell",,,,
+Aspirator,3,Collects imps from the portal,.\res\graphics\Aspirator.png,Fixed,"+1 Imp
++1 Dispenser","+2 Credits OR
++1 Sell",,,,
+Basic Tube,0,,.\res\graphics\Basic_Tube_Straight.png,Tube,+ 1 Credit,+ 1 Credit,4,12,,10
+Basic Tube,0,,.\res\graphics\Basic_Tube_Straight.png,Tube,+ 1 Credit,+ 1 Credit,,,,
+Basic Tube,0,,.\res\graphics\Basic_Tube_Straight.png,Tube,+ 1 Credit,+ 1 Credit,,,,
+Basic Tube,0,,.\res\graphics\Basic_Tube_Straight.png,Tube,+ 1 Credit,+ 1 Credit,,,,
+Basic Tube,0,,.\res\graphics\Basic_Tube_Straight.png,Tube,+ 1 Credit,+ 1 Credit,,,,
+Basic Tube,0,,.\res\graphics\Basic_Tube_Bend.png,Tube,+ 1 Credit,+ 1 Credit,3,12,,10
+Basic Tube,0,,.\res\graphics\Basic_Tube_Bend.png,Tube,+ 1 Credit,+ 1 Credit,,,,
+Basic Tube,0,,.\res\graphics\Basic_Tube_Bend.png,Tube,+ 1 Credit,+ 1 Credit,,,,
+Basic Tube,0,,.\res\graphics\Basic_Tube_Bend.png,Tube,+ 1 Credit,+ 1 Credit,,,,
+Basic Tube,0,,.\res\graphics\Basic_Tube_Bend.png,Tube,+ 1 Credit,+ 1 Credit,,,,
+Splitter,3,One copy of the imp goes to each discharge,.\res\graphics\Splitter_Left.png,Tool,+ 1 Dispenser,"+1 Recipe OR
++1 Sell",1,0,1,4
+Splitter,3,One copy of the imp goes to each discharge,.\res\graphics\Splitter_Left.png,Tool,+ 1 Dispenser,"+1 Recipe OR
++1 Sell",,,,
+Splitter,3,One copy of the imp goes to each discharge,.\res\graphics\Splitter_Right.png,Tool,+ 1 Dispenser,"+1 Recipe OR
++1 Sell",1,0,1,4
+Splitter,3,One copy of the imp goes to each discharge,.\res\graphics\Splitter_Right.png,Tool,+ 1 Dispenser,"+1 Recipe OR
++1 Sell",,,,
+Splitter,3,One copy of the imp goes to each discharge,.\res\graphics\Splitter_Mid.png,Tool,+ 1 Dispenser,"+1 Recipe OR
++1 Sell",1,2,1,4
+Splitter,3,One copy of the imp goes to each discharge,.\res\graphics\Splitter_Mid.png,Tool,+ 1 Dispenser,"+1 Recipe OR
++1 Sell",,,,
+Combiner,4,,.\res\graphics\Combiner_Left.png,Tube,+ 1 Buy,+3 Lab Cards,0,0,1,4
+Combiner,4,,.\res\graphics\Combiner_Left.png,Tube,+ 1 Buy,+3 Lab Cards,,,,
+Combiner,4,,.\res\graphics\Combiner_Right.png,Tube,+ 1 Buy,+3 Lab Cards,0,0,1,4
+Combiner,4,,.\res\graphics\Combiner_Right.png,Tube,+ 1 Buy,+3 Lab Cards,,,,
+Combiner,4,,.\res\graphics\Combiner_Mid.png,Tube,+ 1 Buy,+3 Lab Cards,0,2,1,4
+Combiner,4,,.\res\graphics\Combiner_Mid.png,Tube,+ 1 Buy,+3 Lab Cards,,,,
+Activator,5,Discard the imp and use the imp's ability,.\res\graphics\Activator.png,Tool,+1 Lab Card,"Trash a card, gain a card of same value +3",0,4,2,8
+Activator,5,Discard the imp and use the imp's ability,.\res\graphics\Activator.png,Tool,+1 Lab Card,"Trash a card, gain a card of same value +3",,,,
+Activator,5,Discard the imp and use the imp's ability,.\res\graphics\Activator.png,Tool,+1 Lab Card,"Trash a card, gain a card of same value +3",,,,
+Activator,5,Discard the imp and use the imp's ability,.\res\graphics\Activator.png,Tool,+1 Lab Card,"Trash a card, gain a card of same value +3",,,,
+Activator,5,Discard the imp and use the imp's ability,.\res\graphics\Activator.png,Tool,+1 Lab Card,"Trash a card, gain a card of same value +3",,,,
+Activator,5,Discard the imp and use the imp's ability,.\res\graphics\Activator.png,Tool,+1 Lab Card,"Trash a card, gain a card of same value +3",,,,
+Selector,3,Select which discharge each imp goes to,.\res\graphics\Selector.png,Tube,+2 Credit,+ 2 Credits,0,4,2,8
+Selector,3,Select which discharge each imp goes to,.\res\graphics\Selector.png,Tube,+2 Credit,+ 2 Credits,,,,
+Selector,3,Select which discharge each imp goes to,.\res\graphics\Selector.png,Tube,+2 Credit,+ 2 Credits,,,,
+Selector,3,Select which discharge each imp goes to,.\res\graphics\Selector.png,Tube,+2 Credit,+ 2 Credits,,,,
+Selector,3,Select which discharge each imp goes to,.\res\graphics\Selector.png,Tube,+2 Credit,+ 2 Credits,,,,
+Selector,3,Select which discharge each imp goes to,.\res\graphics\Selector.png,Tube,+2 Credit,+ 2 Credits,,,,
+Converter,2,,.\res\graphics\Converter_Straight.png,Tool,+1 Sell,"+1 Imp to Portal
+OR
+Trash X cards gain another card of total purchase cost of trashed components + X",0,2,1,6
+Converter,2,,.\res\graphics\Converter_Straight.png,Tool,+1 Sell,"+1 Imp to Portal
+OR
+Trash X cards gain another card of total purchase cost of trashed components + X",,,,
+Converter,2,,.\res\graphics\Converter_Straight.png,Tool,+1 Sell,"+1 Imp to Portal
+OR
+Trash X cards gain another card of total purchase cost of trashed components + X",,,,
+Converter,2,,.\res\graphics\Converter_Straight.png,Tool,+1 Sell,"+1 Imp to Portal
+OR
+Trash X cards gain another card of total purchase cost of trashed components + X",,,,
+Converter,2,,.\res\graphics\Converter_Bend.png,Tool,+1 Sell,"+1 Imp to Portal
+OR
+Trash X cards gain another card of total purchase cost of trashed components + X",0,2,1,6
+Converter,2,,.\res\graphics\Converter_Bend.png,Tool,+1 Sell,"+1 Imp to Portal
+OR
+Trash X cards gain another card of total purchase cost of trashed components + X",,,,
+Converter,2,,.\res\graphics\Converter_Bend.png,Tool,+1 Sell,"+1 Imp to Portal
+OR
+Trash X cards gain another card of total purchase cost of trashed components + X",,,,
+Converter,2,,.\res\graphics\Converter_Bend.png,Tool,+1 Sell,"+1 Imp to Portal
+OR
+Trash X cards gain another card of total purchase cost of trashed components + X",,,,
+Consumer,5,Discard the imp and draw another lab card,.\res\graphics\Consumer.png,Tool,"+1 Buy
++1 Imp",Discard a lab card to discard an opponent's lab card,0,4,2,8
+Consumer,5,Discard the imp and draw another lab card,.\res\graphics\Consumer.png,Tool,"+1 Buy
++1 Imp",Discard a lab card to discard an opponent's lab card,,,,
+Consumer,5,Discard the imp and draw another lab card,.\res\graphics\Consumer.png,Tool,"+1 Buy
++1 Imp",Discard a lab card to discard an opponent's lab card,,,,
+Consumer,5,Discard the imp and draw another lab card,.\res\graphics\Consumer.png,Tool,"+1 Buy
++1 Imp",Discard a lab card to discard an opponent's lab card,,,,
+Consumer,5,Discard the imp and draw another lab card,.\res\graphics\Consumer.png,Tool,"+1 Buy
++1 Imp",Discard a lab card to discard an opponent's lab card,,,,
+Consumer,5,Discard the imp and draw another lab card,.\res\graphics\Consumer.png,Tool,"+1 Buy
++1 Imp",Discard a lab card to discard an opponent's lab card,,,,
+Aspirator (Adv.),6,Collects imps from the portal,.\res\graphics\Adv_Aspirator.png,Fixed,"+2 Imps
++1 Dispenser","+3 Credits
+OR
+'+2 Sell",0,2,1,6
+Aspirator (Adv.),6,Collects imps from the portal,.\res\graphics\Adv_Aspirator.png,Fixed,"+2 Imps
++1 Dispenser","+3 Credits
+OR
+'+2 Sell",,,,
+Aspirator (Adv.),6,Collects imps from the portal,.\res\graphics\Adv_Aspirator.png,Fixed,"+2 Imps
++1 Dispenser","+3 Credits
+OR
+'+2 Sell",,,,
+Splitter (Adv.),6,One copy of the imp goes to each discharge,.\res\graphics\Adv_Splitter.png,Tool,"+1 Dispenser
++1 Buy","+1 Recipe
++1 Imp",0,2,1,6
+Splitter (Adv.),6,One copy of the imp goes to each discharge,.\res\graphics\Adv_Splitter.png,Tool,"+1 Dispenser
++1 Buy","+1 Recipe
++1 Imp",,,,
+Splitter (Adv.),6,One copy of the imp goes to each discharge,.\res\graphics\Adv_Splitter.png,Tool,"+1 Dispenser
++1 Buy","+1 Recipe
++1 Imp",,,,
+Selector (Adv.),6,Select which discharge each imp goes to,.\res\graphics\Adv_Selector.png,Card,"+ 1 Credit
++2 Lab Cards",+3 Credits,0,2,1,6
+Selector (Adv.),6,Select which discharge each imp goes to,.\res\graphics\Adv_Selector.png,Card,"+ 1 Credit
++2 Lab Cards",+3 Credits,,,,
+Selector (Adv.),6,Select which discharge each imp goes to,.\res\graphics\Adv_Selector.png,Card,"+ 1 Credit
++2 Lab Cards",+3 Credits,,,,
+Accelerator,4,,.\res\graphics\Accelerator_Straight.png,Tube,"+1 Imp
++1 Credit","+1 Buy
++1 Credit
++1 Imp",0,2,1,4
+Accelerator,4,,.\res\graphics\Accelerator_Straight.png,Tube,"+1 Imp
++1 Credit","+1 Buy
++1 Credit
++1 Imp",,,,
+Accelerator,4,,.\res\graphics\Accelerator_Right.png,Tube,"+1 Imp
++1 Credit","+1 Buy
++1 Credit
++1 Imp",0,2,1,4
+Accelerator,4,,.\res\graphics\Accelerator_Right.png,Tube,"+1 Imp
++1 Credit","+1 Buy
++1 Credit
++1 Imp",,,,
+Accelerator,4,,.\res\graphics\Accelerator_Left.png,Tube,"+1 Imp
++1 Credit","+1 Buy
++1 Credit
++1 Imp",0,2,1,4
+Accelerator,4,,.\res\graphics\Accelerator_Left.png,Tube,"+1 Imp
++1 Credit","+1 Buy
++1 Credit
++1 Imp",,,,
+Splicer,4,,.\res\graphics\Splicer_Straight.png,Tube,+2 Credits,+2 HP,0,2,1,4
+Splicer,4,,.\res\graphics\Splicer_Straight.png,Tube,+2 Credits,+2 HP,,,,
+Splicer,4,,.\res\graphics\Splicer_Right.png,Tube,+2 Credits,+2 HP,0,2,1,4
+Splicer,4,,.\res\graphics\Splicer_Right.png,Tube,+2 Credits,+2 HP,,,,
+Splicer,4,,.\res\graphics\Splicer_Left.png,Tube,+2 Credits,+2 HP,0,2,1,4
+Splicer,4,,.\res\graphics\Splicer_Left.png,Tube,+2 Credits,+2 HP,,,,
+Detonator,4,Discard the imp and trash this card to discard an opponent's lab component,.\res\graphics\Detonator.png,Tool,+1 Lab Card,Discard another card to force all players to discard two cards,0,4,2,8
+Detonator,4,Discard the imp and trash this card to discard an opponent's lab component,.\res\graphics\Detonator.png,Tool,+1 Lab Card,Discard another card to force all players to discard two cards,,,,
+Detonator,4,Discard the imp and trash this card to discard an opponent's lab component,.\res\graphics\Detonator.png,Tool,+1 Lab Card,Discard another card to force all players to discard two cards,,,,
+Detonator,4,Discard the imp and trash this card to discard an opponent's lab component,.\res\graphics\Detonator.png,Tool,+1 Lab Card,Discard another card to force all players to discard two cards,,,,
+Detonator,4,Discard the imp and trash this card to discard an opponent's lab component,.\res\graphics\Detonator.png,Tool,+1 Lab Card,Discard another card to force all players to discard two cards,,,,
+Detonator,4,Discard the imp and trash this card to discard an opponent's lab component,.\res\graphics\Detonator.png,Tool,+1 Lab Card,Discard another card to force all players to discard two cards,,,,
+Reactor,2,Discard the imp and trash this card to immediately gain another with cost less than or equal to 4,.\res\graphics\Reactor.png,Tool,+1 Credit,+2 Imps to Portal,0,4,2,8
+Reactor,2,Discard the imp and trash this card to immediately gain another with cost less than or equal to 4,.\res\graphics\Reactor.png,Tool,+1 Credit,+2 Imps to Portal,,,,
+Reactor,2,Discard the imp and trash this card to immediately gain another with cost less than or equal to 4,.\res\graphics\Reactor.png,Tool,+1 Credit,+2 Imps to Portal,,,,
+Reactor,2,Discard the imp and trash this card to immediately gain another with cost less than or equal to 4,.\res\graphics\Reactor.png,Tool,+1 Credit,+2 Imps to Portal,,,,
+Reactor,2,Discard the imp and trash this card to immediately gain another with cost less than or equal to 4,.\res\graphics\Reactor.png,Tool,+1 Credit,+2 Imps to Portal,,,,
+Reactor,2,Discard the imp and trash this card to immediately gain another with cost less than or equal to 4,.\res\graphics\Reactor.png,Tool,+1 Credit,+2 Imps to Portal,,,,
+Combiner (Adv.),7,,.\res\graphics\Adv_Combiner.png,Tool,"+ 1 Lab Card
++1 Buy","Return a lab card from the machine to your hand, gain 1 Coin",0,2,1,6
+Combiner (Adv.),7,,.\res\graphics\Adv_Combiner.png,Tool,"+ 1 Lab Card
++1 Buy","Return a lab card from the machine to your hand, gain 1 Coin",,,,
+Combiner (Adv.),7,,.\res\graphics\Adv_Combiner.png,Tool,"+ 1 Lab Card
++1 Buy","Return a lab card from the machine to your hand, gain 1 Coin",,,,
+Combiner (Adv.),7,,.\res\graphics\Adv_Combiner.png,Tool,"+ 1 Lab Card
++1 Buy","Return a lab card from the machine to your hand, gain 1 Coin",,,,
+Combiner (Adv.),7,,.\res\graphics\Adv_Combiner.png,Tool,"+ 1 Lab Card
++1 Buy","Return a lab card from the machine to your hand, gain 1 Coin",,,,
+Combiner (Adv.),7,,.\res\graphics\Adv_Combiner.png,Tool,"+ 1 Lab Card
++1 Buy","Return a lab card from the machine to your hand, gain 1 Coin",,,,
