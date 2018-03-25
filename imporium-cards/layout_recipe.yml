@@ -1,0 +1,113 @@
+#This layout inspired by popular economy games
+title:
+  x: 150
+  y: 90
+  width: 550
+  height: 50
+  align: left
+  font_size: 9
+  font: "Arial italic"
+
+purchase:
+  x: 75
+  y: 75
+  font_size: 16
+  width: 50
+  align: center
+
+art:
+  x: 75
+  y: 150
+  width: 675
+  height: 520
+
+description:
+  x: 100
+  y: 725
+  width: 625
+  height: 150
+  valign: middle
+  align: left
+  font_size: 6
+desc: # alias
+  extends: description
+
+flavour:
+  x: 100
+  y: 875
+  width: 625
+  height: 75
+  valign: top
+  align: left
+  font: "Arial italic"
+  font_size: 6
+
+value:
+  x: 450
+  y: 1050
+  width: 50
+  align: center
+  angle: 3.14159265
+  font_size: 20
+
+type:
+  x: 90
+  y: 675
+  width: 645
+  height: 50
+  align: center
+  font_size: 6
+
+lower_right:
+  x: 675
+  y: 975
+  width: 75
+  height: 75
+  font_size: 6
+  valign: bottom
+  align: right
+lr: #alias
+  extends: lower_right
+
+lower_left:
+  x: 75
+  y: 975
+  width: 75
+  height: 75
+  font_size: 6
+  valign: bottom
+  align: left
+ll: # alias
+  extends: lower_left
+
+copyright:
+  x: 75
+  y: 1025
+  width: 675
+  height: 25
+  font_size: 5
+  align: center
+  valign: bottom
+#aliases for copyright
+copy:
+  extends: copyright
+credit:
+  extends: copyright
+credits:
+  extends: copyright
+
+# The "cut line", without rounded corners
+cut:
+  x: 37.5
+  y: 37.5
+  width: 750
+  height: 1050
+
+# The "safe zone" as defined by TheGameCrafter poker cards
+safe:
+  x: 75
+  y: 75
+  width: 675
+  height: 975
+  radius: 16
+  dash: 3 3
