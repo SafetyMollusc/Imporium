@@ -1,7 +1,31 @@
 require 'squib'
 
-task default: [:deck]
+task default: [:alldecks]
 
-task :deck do
-  load 'deck.rb'
+task :alldecks do
+	LAB_CARDS = 0
+	LAB_TILES = 1
+	RECIPE_CARDS = 2
+	PLAYER_AIDS = 3
+	load 'deck.rb'
+end
+
+task :labtiles do
+	LAB_TILES = 1
+	load 'deck.rb'
+end
+
+task :labcards do
+	LAB_CARDS = 0
+	load 'deck.rb'
+end
+
+task :recipecards do
+	RECIPE_CARDS = 2
+	load 'deck.rb'
+end
+
+task :playeraids do
+	PLAYER_AIDS = 3
+	load 'deck.rb'
 end

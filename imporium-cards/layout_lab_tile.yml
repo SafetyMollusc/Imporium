@@ -1,49 +1,51 @@
 #This layout is based upon the template 'economy.yml' 
 title:
-  x: 650
-  y: 90
-  width: 385
-  height: 50
-  align: center
+  x: 420 #650
+  y: 52.5
+  width: 217.5 #385
+  height: 180
+  font_size: 8
+  align: left
 
 title_bkgd:
-  x: 650
+  x: 420 #650
   y: 90
-  width: 385
-  height: 50
+  width: 200 #385
+  height: 25 #50
   fill_color: '#1111'
   stroke_color: '#0000'
 
 art:
-  x: 75
-  y: 75
-  width: 975
-  height: 975
+  x: 37.5
+  y: 37.5
+  width: 600
+  height: 600
 
 description:
-  x: 700
-  y: 165
-  width: 335
-  height: 260
+  x: 420 #700
+  y: 140 #165
+  width: 217.5 #335
+  height: 200 #260
   valign: top
   align: left
-  font_size: 6
+  font_size: 5
 desc: # alias
   extends: description
 
 desc_bkgd:
   x: 100
   y: 450
-  width: 600
-  height: 275
+  width: 200 #600
+  height: 200 #275
   fill_color: '#7777'
   stroke_color: '#0000'
 
 cost:
   x: 75
   y: 75
-  width: 50
-  height: 50
+  width: 35
+  height: 25
+  font_size: 8
   align: center
 
 type:
@@ -54,40 +56,31 @@ type:
   align: center
 
 play:
-  x: 90
-  y: 700
-  width: 260
-  height: 335
-  font_size: 6
+  x: 52.5
+  y: 400 #700
+  width: 200 #260
+  height: 200 #335
+  font_size: 5
   valign: bottom
   align: left
 
 play_bkgd:
   x: 90
-  y: 700
-  width: 260
-  height: 335
+  y: 400 #700
+  width: 200 #260
+  height: 200 #335
   fill_color: '#7777'
   stroke_color: '#0000'
 
 
 recycle:
-  x: 775
-  y: 700
-  width: 260
-  height: 335
-  font_size: 6
+  x: 420 #775
+  y: 400 #700
+  width: 217.5 #260
+  height: 200 #335
+  font_size: 5
   valign: bottom
   align: left
-
-discard_bkgd:
-  x: 775
-  y: 700
-  width: 260
-  height: 335
-  fill_color: '#7777'
-  stroke_color: '#0000'
-
 
 lower_right:
   x: 975
@@ -112,10 +105,10 @@ ll: # alias
   extends: lower_left
 
 copyright:
-  x: 75
-  y: 1025
-  width: 675
-  height: 25
+  x: 37.5
+  y: 600
+  width: 225
+  height: 37.5
   font_size: 5
   align: center
   valign: bottom
@@ -131,14 +124,5 @@ credits:
 cut:
   x: 37.5
   y: 37.5
-  width: 1050
-  height: 1050
-
-# The "safe zone" as defined by TheGameCrafter poker cards
-safe:
-  x: 75
-  y: 75
-  width: 975
-  height: 975
-  radius: 16
-  dash: 3 3
+  width: 600
+  height: 600
