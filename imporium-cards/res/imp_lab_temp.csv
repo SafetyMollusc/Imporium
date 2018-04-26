@@ -1,0 +1,38 @@
+﻿Index,title,recipe_cost,recipe_value,recipe_type,Effect_1,Flavour_Text,Graphics_Source,Card_Image,Cost_Image,Qty
+1,Bouquet of Bemusement,M≠M,2,Gift,"If an effect targets you or one of your imps, you may give the activating apprentice this bouquet to have them target another player.",Is that for me? You REALLY shouldn’t have…,../Graphics/Cards/,evil-star-wars-bouquet.jpg,Cost_M_M.png,1
+2,Sword of Suffering,"F,R,2C",3,Equipment,If equipped: Discard lab card to destroy target laboratory component,"You cut me deep, brah!",../Graphics/Cards/,00-0628c2.jpg,Cost_F_R_2.png,1
+3,Brazen Bellows,"A,L",2,Equipment,If equipped: Discard lab card to exchange any two imps on the table,"It's not THAT the wind is blowing, it's WHAT the wind is blowing.",../Graphics/Cards/,Ambling_Bellows.png,Cost_A_L.png,1
+4,Eau de Effigy,"W,W,2C",3,Equipment,"If equipped, at the end of the action phase, if there is at least one imp remaining in the portal, you may place one of these imps in one of your aspirators and process that imp",It makes their resolve stronger… just be sure that's what you want…,../Graphics/Cards/,Obsession-Princess-Disney-Villains-Perfume-Bottles-Hades-from-Hercules.jpg,Cost_W_W_2.png,1
+5,The Hat of Heralds,"A,E,F,L,R,W,2C",6,Souvenir,,"That is one mighty fine hat. 
+- some hat admirer",../Graphics/Cards/,CD1290YSTT-CP.jpg,Cost_A_E_F_L_R_W_2C.png,1
+6,Whispering Wind-up,"A,E,R",2,Equipment,If equipped: Discard a card to move one imp from the portal directly to a machine component,The music is very soothing and then in bonks you on the head,../Graphics/Cards/,d7c44e462b0d002301dbc721cd0fda46.jpg,Cost_A_E_R.png,1
+7,Boisterous Bassinette,10C,6,Souvenir,,"I would put my baby in it, but I prefer to be the one talking to my child…",,,Cost_10C.png,1
+8,Unsavoury Sucker,2M,2,Gift,Receiving player must immediately discard one lab card from their hand.,My doctor says I shouldn't have sugar anyway…,../Graphics/Cards/,sucker.jpg,Cost_2M.png,1
+9,Cluster of Chimplets,"2M,2M,2M",4,Souvenir,,Why… would anyone do that?,,,Cost_2M_2M_2M.png,2
+10,Mystery Mixture,"W,1C",1,Consumable,"When consumed, roll d6 and take the action for an imp of that colour","He just shouted ""you'll regret this!"", drank from the bottle and was suddenly a marmoset.",,,Cost_W_1.png,2
+11,Branch of Banishing,"F,F,F,F,2C",4,Consumable,"When consumed, pick a colour of imp and all imps of that type are immediately destroyed",Which switch is which?,,,Cost_F_F_F_F_2.png,1
+14,Scroll of Sibilance,"A,R,W",3,Consumable,"When consumed, return up to two imps from the portal to the supply.","WHAT? I'm sorry, I can't hear you - WHAAAAT???",,,Cost_A_R_W.png,2
+16,Golem of Gears,"E,F,L,R,2C",4,Consumable,When consumed draw two lab cards and play one immediately into your laboratory chain and discard the other (without gaining the discard bonus),"Two by two, my gears and you.",,,Cost_E_F_L_R_2.png,1
+17,Burner of Blanching,"A,A,F,F",4,Equipment,If equipped: Spend 1HP for +1 imp.,"Ouch… well, I didn't need that eyebrow anyway.",,,Cost_A_A_F_F.png,1
+18,Tome of Truths,"3M,3M,3C",6,Souvenir,,"I assumed with a name like that it actually did something.
+- another happy customer",,,Cost_3M_3M_3.png,1
+19,Pipette of Precision,"R,W,2C",3,Equipment,If equipped: You may store up to two (2) imps on this card from dispensers. Imps may be freely removed from this card when recipes become available.,"Measure once, cut once, take an early lunch.",,,Cost_R_W_2.png,1
+20,Serviette of Subservience,"L,W,1C",2,Gift,Receiving player must give you one imp from one of their recipes. Treat this imp as if it was received via a dispenser.,Cleaning up never felt so much like robbery,,,Cost_L_W_1.png,1
+21,Mug of Mediation,"A,F,F,R,R",4,Equipment,If equipped: If you receive a gift you may discard it as well as the Mug of Mediation and cancel its effects. You may select one piece of equipment from the gifting player's inventory and immediately equip it.,It's a very soothing beverage… you will feel much richer afterwards,,,Cost_A_F_F_R_R.png,1
+22,Tablesetting of Tortuousness,"A,E,F,L",3,Souvenir,,It's passable for keeping the food from directly touching the table,,,Cost_A_E_F_L.png,1
+23,Fabulous Furry Footwarmers,"E,L,R",2,Equipment,If equipped: Discard a card to activate this footwear and immediately place up to two lab cards in your laboratory,"They look pretty ungainly, but I feel marginally swifter",,,Cost_E_L_R.png,1
+25,Misfit Mirror,"E,R,W",2,Souvenir,,I could swear I didn't have that moustache a minute ago…,,,Cost_E_R_W.png,1
+26,Problematic Potion Set,"F,R,W,W",3,Consumable,"When consumed, destroy up to one imp of each colour you control to take the action provided by that imp",,,,Cost_F_R_W_W.png,1
+27,Hobbyhorse-drawn Handsome,"L,L,L,R,R,W,W",6,Souvenir,,,,,Cost_L_L_L_R_R_W_W.png,1
+28,Phoney Phonograph,"A,E,L,1C",3,Gift,Give to target player to force target player to reveal their hand. Pick one card from the hand and replace it with a card of the cost -2,"It plays such… interesting music I… hey, where's my wallet?!?!",,,Cost_A_E_L_1.png,1
+31,Ribald Racquet,"E,R,W",2,Equipment,Discard one card to ignore up to two damage caused by escaping imps this turn,,,,Cost_E_R_W.png,1
+32,Friendly Fork,"A,L,R",2,Gift,Give to target player to use the action of one of that player's equipped items (this does not exhaust the item) - activation costs must still be paid,,,,Cost_A_L_R.png,1
+33,Crinkled Carafe,"A,R,R,W,W",4,Souvenir,,,,,Cost_A_R_R_W_W.png,1
+34,Touchy Torch,"E,F,L,R",3,Consumable,When consumed scare two imps out of another player's machine and/or recipes (the imps return to the portal),,,,Cost_E_F_L_R.png,1
+36,Wistful Weight Set,"E,R,W",3,Souvenir,,,,,Cost_E_R_W.png,1
+38,Salve of Salvation,"L,L",1,Consumable,When consumed gain 3 life,,,,Cost_L_L.png,2
+39,Wonderous Workbench,"A,E,F,L,R,W",5,Equipment,If equipped: recipes you control cost one fewer imp of any colour to complete,,,,Cost_A_E_F_L_R_W.png,1
+41,Flurry of Fliers,"A,A,L",2,Consumable,Consume to immediately sell up to three items in your inventory,,,,Cost_A_A_L.png,2
+45,Feather Duster of Fending,2C,1,Equipment,"If equipped: Once per turn this feather duster can be used (during the IMP ESCAPE! Phase to deflect one imp (rather than the imp attacking your laboratory, your flasks or you, it is discarded).",,,,"Cost_2,png",4
+48,Lucky Lure,2C,1,Gift,Give to another player to redirect an imp sent at you to that player.,,,,"Cost_2,png",4
+49,Boundless Bench,"A,E,F,L,R,W",5,Equipment,If equipped: you may have up to two (2) additional active recipes on your workbench,,,,Cost_A_E_F_L_R_W.png,1
